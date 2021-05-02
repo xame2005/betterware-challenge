@@ -62,12 +62,12 @@ button {
   cursor: pointer;
 }
 
-.button.add {
+.button .add {
   background-color: #40c0f0;
   width: 1.5rem;
 }
 
-.button.remove {
+.button .remove {
   background-color: #f04040;
   width: 1.5rem;
 }
